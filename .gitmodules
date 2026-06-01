@@ -1,0 +1,3 @@
+[submodule ".claude/skills/unity-claude-skills"]
+	path = .claude/skills/unity-claude-skills
+	url = git@github.com:iwacchik/unity-claude-skills.git
